@@ -5,7 +5,7 @@
 1. [Simple functions](ASSIGNMENTS/01_Simple_Functions.pdf)
     - [Solution](simple-functions/src/simple_functions/core.clj)
 2. [Number sequences, map and filter](ASSIGNMENTS/02_number_sequences_map_filter.pdf)
-  - [Solution](/numbers-map-filters/src/numbers_map_filters/core.clj)
+    - [Solution](/numbers-map-filters/src/numbers_map_filters/core.clj)
 3. [Collatz conjecture](ASSIGNMENTS/03_collatz.pdf)
 4. [Strings](ASSIGNMENTS/04_strings.pdf)
 5. [Characters](ASSIGNMENTS/05_characters.pdf)
