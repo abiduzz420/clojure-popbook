@@ -1,6 +1,6 @@
-(ns clojure-popbook.core-test
+(ns simple-functions.core-test
   (:require [clojure.test :refer :all]
-            [clojure-popbook.core :refer :all]))
+            [simple-functions.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."

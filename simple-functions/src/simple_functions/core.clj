@@ -1,4 +1,4 @@
-(ns clojure-popbook.core
+(ns simple-functions.core
   (:gen-class))
 
 (defn -main
