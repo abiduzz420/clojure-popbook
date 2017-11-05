@@ -14,6 +14,7 @@
 10. ![Reduce](https://egri-nagy.github.io/popbook/ASSIGNMENTS/10_reduce.pdf)
 
 ![Practice problems](https://egri-nagy.github.io/popbook/ASSIGNMENTS/problems.pdf)
+
 ![Mini projects](https://egri-nagy.github.io/popbook/ASSIGNMENTS/projects.pdf)
 
 ![Sample test](https://egri-nagy.github.io/popbook/ASSIGNMENTS/test_01.pdf)
