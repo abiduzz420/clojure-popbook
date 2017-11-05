@@ -3,7 +3,7 @@
 # Assignment Problems in Clojure
 
 1. [Simple functions](ASSIGNMENTS/01_Simple_Functions.pdf)
-    - [Solution](simple-functions/src/simple-functions/core.clj)
+    - [Solution](simple-functions/src/simple_functions/core.clj)
 2. [Number sequences, map and filter](ASSIGNMENTS/02_number_sequences_map_filter.pdf)
 3. [Collatz conjecture](ASSIGNMENTS/03_collatz.pdf)
 4. [Strings](ASSIGNMENTS/04_strings.pdf)
