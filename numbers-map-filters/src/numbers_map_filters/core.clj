@@ -1,7 +1,9 @@
 (ns numbers-map-filters.core
   (:gen-class))
 
-(defn -main
-  "I don't do a whole lot ... yet."
-  [& args]
-  (println "Hello, World!"))
+;; problem solved in 3 ways
+
+(defn -main [& args]
+  (println (->> (remove #(not= (mod % 5) 0) (range 1 101)) (reduce +)))
+  (println (->> (filter #(= (mod % 5) 0) (range 1 101)) (reduce +)))
+  (println (reduce + (map #(* % 5) (range 1 21)))))
